@@ -1,5 +1,7 @@
 # Hugo default output directory
-/public
+/public/*
+
+!public/CNAME
 
 ## OS Files
 # Windows
