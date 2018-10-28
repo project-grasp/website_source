@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = 'Don &#39; t let your future behind. <b>Grasp it!</b>'
+  description = "Problem-solving and competitive programming for high school students"
   # logo = "fa-diamond"
    logoimage = "images/logo_round.png"
   # copyright = "Untitled"

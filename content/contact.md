@@ -1,11 +1,11 @@
 +++
-title = "Contact"
+title = "How to join?"
 weight = 40
-# menuname = "Contact"
+# menuname = "How to join?"
 draft = false
 +++
-
-<form id="contactform" method="post" action="https://formspree.io/trombetta.enricom@gmail.com">
+Grasp is happening every Tuesday at 16:30 – 18:30 in Sir Alwyan William's Building, University of Glasgow. You can just come along. Questions? Drop us a line, we'll be in touch shortly!
+<form id="contactform" method="post" action="https://formspree.io/adam@kurkiewicz.pl">
 	<div class="field half first">
 		<input type="text" name="name" id="name" placeholder="Name"/>
 	</div>
@@ -39,4 +39,3 @@ $(document).ready(function($) {
 </script>
 
 
-{{< socialLinks >}}
